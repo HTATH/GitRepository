@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is outoffree software.
-Lzh.
-GG.
+Lzh is a student.
+GG is GG.
