@@ -5,5 +5,5 @@ GG is GG.
 <<<<<<< HEAD
 Branch.
 =======
-branch.
+branct.
 >>>>>>> 5fbc272939ddba47f39d8c22c9cf246a82c0cb1a
